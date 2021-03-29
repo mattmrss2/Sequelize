@@ -1,0 +1,21 @@
+.container {
+    width:50%;
+    margin: auto;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    background-color: #E8D7FF
+}
+.table {
+    margin: 0 ;
+
+}
+html {
+    background-color: #F3FFE1
+}
+.title {
+    text-align: center;
+}
+.tableContainer {
+    border-radius:15px;
+    background-color:white;
+}
