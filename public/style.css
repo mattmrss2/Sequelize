@@ -23,5 +23,5 @@ html {
     width: 100%;
     position: absolute;
     height: 400px;
-    margin-bottom: 100px 
+    border-radius: 15px;
 }
